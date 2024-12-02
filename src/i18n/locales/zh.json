@@ -1,0 +1,71 @@
+{
+  "app": {
+    "title": "SAXIIB 终端",
+    "status": {
+      "online": "在线",
+      "offline": "离线"
+    }
+  },
+  "folders": {
+    "title": "文件夹",
+    "chat": "聊天",
+    "messages": "消息",
+    "utility": "工具",
+    "settings": "设置"
+  },
+  "settings": {
+    "title": "设置",
+    "language": {
+      "title": "语言设置",
+      "current": "当前语言"
+    },
+    "theme": {
+      "title": "主题颜色",
+      "custom": "自定义颜色",
+      "preview": "预览",
+      "button": "按钮示例",
+      "input": "输入示例",
+      "border": "边框示例"
+    }
+  },
+  "chat": {
+    "placeholder": "输入消息...",
+    "send": "发送",
+    "listening": "正在听...",
+    "startVoice": "开始语音输入",
+    "stopVoice": "停止语音输入"
+  },
+  "messages": {
+    "selectContact": "选择联系人开始聊天",
+    "newMessage": "新消息",
+    "contacts": {
+      "title": "联系人",
+      "add": "添加联系人",
+      "online": "在线",
+      "typing": "正在输入..."
+    }
+  },
+  "utility": {
+    "clipboard": {
+      "title": "剪贴板管理器",
+      "placeholder": "输入要存储的文本...",
+      "store": "存储",
+      "copy": "复制到剪贴板",
+      "delete": "删除项目"
+    },
+    "translator": {
+      "title": "离线翻译器",
+      "placeholder": "输入要翻译的文本...",
+      "translate": "翻译",
+      "translating": "翻译中...",
+      "result": "翻译结果"
+    }
+  },
+  "common": {
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "close": "关闭"
+  }
+}

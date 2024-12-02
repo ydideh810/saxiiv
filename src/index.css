@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --theme-color: #00ff9d;
+    --theme-color-rgb: 0, 255, 157;
+  }
+
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    background-color: black;
+    color: var(--theme-color);
+    font-family: 'Press Start 2P', cursive;
+    overscroll-behavior: none;
+  }
+  
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #000;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: var(--theme-color);
+    border-radius: 2px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: color-mix(in srgb, var(--theme-color) 80%, black);
+  }
+
+  /* Horizontal scrollbar for utility buttons */
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    -ms-overflow-style: none;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar {
+    height: 2px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: var(--theme-color);
+    border-radius: 1px;
+  }
+
+  @media (min-width: 768px) {
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+    
+    ::-webkit-scrollbar-thumb {
+      border-radius: 4px;
+    }
+  }
+}
+
+@layer components {
+  .terminal-input {
+    @apply bg-black border border-theme rounded p-2 text-theme focus:outline-none focus:ring-1 focus:ring-theme text-xs leading-relaxed;
+  }
+  
+  .terminal-button {
+    @apply p-2 border border-theme rounded hover:bg-theme-10 active:bg-theme-20 transition-colors duration-200 touch-manipulation;
+  }
+  
+  .terminal-text {
+    @apply text-xs leading-relaxed tracking-wide;
+  }
+}

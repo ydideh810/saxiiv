@@ -1,0 +1,71 @@
+{
+  "app": {
+    "title": "TERMINAL SAXIIB",
+    "status": {
+      "online": "ONLINE",
+      "offline": "OFFLINE"
+    }
+  },
+  "folders": {
+    "title": "PASTAS",
+    "chat": "CHAT",
+    "messages": "MENSAGENS",
+    "utility": "UTILIDADES",
+    "settings": "CONFIGURAÇÕES"
+  },
+  "settings": {
+    "title": "CONFIGURAÇÕES",
+    "language": {
+      "title": "CONFIGURAÇÕES DE IDIOMA",
+      "current": "IDIOMA ATUAL"
+    },
+    "theme": {
+      "title": "COR DO TEMA",
+      "custom": "COR PERSONALIZADA",
+      "preview": "PRÉVIA",
+      "button": "EXEMPLO DE BOTÃO",
+      "input": "EXEMPLO DE ENTRADA",
+      "border": "EXEMPLO DE BORDA"
+    }
+  },
+  "chat": {
+    "placeholder": "Digite sua mensagem...",
+    "send": "ENVIAR",
+    "listening": "Ouvindo...",
+    "startVoice": "Iniciar entrada de voz",
+    "stopVoice": "Parar entrada de voz"
+  },
+  "messages": {
+    "selectContact": "Selecione um contato para começar a conversar",
+    "newMessage": "Nova mensagem",
+    "contacts": {
+      "title": "CONTATOS",
+      "add": "Adicionar contato",
+      "online": "Online",
+      "typing": "Digitando..."
+    }
+  },
+  "utility": {
+    "clipboard": {
+      "title": "GERENCIADOR DE ÁREA DE TRANSFERÊNCIA",
+      "placeholder": "Digite o texto para armazenar...",
+      "store": "ARMAZENAR",
+      "copy": "Copiar para área de transferência",
+      "delete": "Excluir item"
+    },
+    "translator": {
+      "title": "TRADUTOR OFFLINE",
+      "placeholder": "Digite o texto para traduzir...",
+      "translate": "TRADUZIR",
+      "translating": "TRADUZINDO...",
+      "result": "TRADUÇÃO"
+    }
+  },
+  "common": {
+    "cancel": "CANCELAR",
+    "save": "SALVAR",
+    "delete": "EXCLUIR",
+    "edit": "EDITAR",
+    "close": "FECHAR"
+  }
+}

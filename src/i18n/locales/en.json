@@ -1,0 +1,14 @@
+{
+  "id": {
+    "title": "DIGITAL ID",
+    "securityLevel": "SECURITY LEVEL",
+    "idNumber": "ID NUMBER",
+    "clearance": "CLEARANCE",
+    "name": "NAME",
+    "dob": "DATE OF BIRTH",
+    "nationality": "NATIONALITY",
+    "email": "EMAIL",
+    "phone": "PHONE",
+    "footer": "AUTHORIZED DIGITAL IDENTIFICATION - NEURAL INTERACTIVE DIGITAL ASSISTANT MODULE"
+  }
+}

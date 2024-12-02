@@ -1,0 +1,71 @@
+{
+  "app": {
+    "title": "TERMINAL SAXIIB",
+    "status": {
+      "online": "EN LÍNEA",
+      "offline": "DESCONECTADO"
+    }
+  },
+  "folders": {
+    "title": "CARPETAS",
+    "chat": "CHAT",
+    "messages": "MENSAJES",
+    "utility": "UTILIDAD",
+    "settings": "AJUSTES"
+  },
+  "settings": {
+    "title": "AJUSTES",
+    "language": {
+      "title": "CONFIGURACIÓN DE IDIOMA",
+      "current": "IDIOMA ACTUAL"
+    },
+    "theme": {
+      "title": "COLOR DEL TEMA",
+      "custom": "COLOR PERSONALIZADO",
+      "preview": "VISTA PREVIA",
+      "button": "EJEMPLO DE BOTÓN",
+      "input": "EJEMPLO DE ENTRADA",
+      "border": "EJEMPLO DE BORDE"
+    }
+  },
+  "chat": {
+    "placeholder": "Escribe tu mensaje...",
+    "send": "ENVIAR",
+    "listening": "Escuchando...",
+    "startVoice": "Iniciar entrada de voz",
+    "stopVoice": "Detener entrada de voz"
+  },
+  "messages": {
+    "selectContact": "Selecciona un contacto para comenzar a chatear",
+    "newMessage": "Nuevo mensaje",
+    "contacts": {
+      "title": "CONTACTOS",
+      "add": "Añadir contacto",
+      "online": "En línea",
+      "typing": "Escribiendo..."
+    }
+  },
+  "utility": {
+    "clipboard": {
+      "title": "GESTOR DE PORTAPAPELES",
+      "placeholder": "Ingresa texto para almacenar...",
+      "store": "GUARDAR",
+      "copy": "Copiar al portapapeles",
+      "delete": "Eliminar elemento"
+    },
+    "translator": {
+      "title": "TRADUCTOR SIN CONEXIÓN",
+      "placeholder": "Ingresa texto para traducir...",
+      "translate": "TRADUCIR",
+      "translating": "TRADUCIENDO...",
+      "result": "TRADUCCIÓN"
+    }
+  },
+  "common": {
+    "cancel": "CANCELAR",
+    "save": "GUARDAR",
+    "delete": "ELIMINAR",
+    "edit": "EDITAR",
+    "close": "CERRAR"
+  }
+}

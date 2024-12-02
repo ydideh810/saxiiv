@@ -1,0 +1,48 @@
+{
+  "app": {
+    "title": "طرفية SAXIIB",
+    "status": {
+      "online": "متصل",
+      "offline": "غير متصل"
+    }
+  },
+  "folders": {
+    "title": "المجلدات",
+    "chat": "المحادثة",
+    "messages": "الرسائل",
+    "utility": "الأدوات",
+    "settings": "الإعدادات"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "language": {
+      "title": "إعدادات اللغة",
+      "current": "اللغة الحالية"
+    },
+    "theme": {
+      "title": "لون السمة",
+      "custom": "لون مخصص",
+      "preview": "معاينة",
+      "button": "مثال الزر",
+      "input": "مثال الإدخال",
+      "border": "مثال الحدود"
+    }
+  },
+  "businessCard": {
+    "title": "بطاقة العمل الرقمية",
+    "scanToConnect": "امسح رمز QR للتواصل",
+    "name": "الاسم",
+    "title": "المسمى الوظيفي",
+    "company": "الشركة",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "website": "الموقع الإلكتروني"
+  },
+  "common": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "close": "إغلاق"
+  }
+}

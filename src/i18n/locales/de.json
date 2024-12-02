@@ -1,0 +1,71 @@
+{
+  "app": {
+    "title": "SAXIIB TERMINAL",
+    "status": {
+      "online": "ONLINE",
+      "offline": "OFFLINE"
+    }
+  },
+  "folders": {
+    "title": "ORDNER",
+    "chat": "CHAT",
+    "messages": "NACHRICHTEN",
+    "utility": "WERKZEUGE",
+    "settings": "EINSTELLUNGEN"
+  },
+  "settings": {
+    "title": "EINSTELLUNGEN",
+    "language": {
+      "title": "SPRACHEINSTELLUNGEN",
+      "current": "AKTUELLE SPRACHE"
+    },
+    "theme": {
+      "title": "THEMENFARBE",
+      "custom": "BENUTZERDEFINIERTE FARBE",
+      "preview": "VORSCHAU",
+      "button": "BUTTON BEISPIEL",
+      "input": "EINGABE BEISPIEL",
+      "border": "RAHMEN BEISPIEL"
+    }
+  },
+  "chat": {
+    "placeholder": "Nachricht eingeben...",
+    "send": "SENDEN",
+    "listening": "Höre zu...",
+    "startVoice": "Spracheingabe starten",
+    "stopVoice": "Spracheingabe stoppen"
+  },
+  "messages": {
+    "selectContact": "Wähle einen Kontakt zum Chatten",
+    "newMessage": "Neue Nachricht",
+    "contacts": {
+      "title": "KONTAKTE",
+      "add": "Kontakt hinzufügen",
+      "online": "Online",
+      "typing": "Schreibt..."
+    }
+  },
+  "utility": {
+    "clipboard": {
+      "title": "ZWISCHENABLAGE-MANAGER",
+      "placeholder": "Text zum Speichern eingeben...",
+      "store": "SPEICHERN",
+      "copy": "In Zwischenablage kopieren",
+      "delete": "Element löschen"
+    },
+    "translator": {
+      "title": "OFFLINE-ÜBERSETZER",
+      "placeholder": "Text zum Übersetzen eingeben...",
+      "translate": "ÜBERSETZEN",
+      "translating": "ÜBERSETZUNG LÄUFT...",
+      "result": "ÜBERSETZUNG"
+    }
+  },
+  "common": {
+    "cancel": "ABBRECHEN",
+    "save": "SPEICHERN",
+    "delete": "LÖSCHEN",
+    "edit": "BEARBEITEN",
+    "close": "SCHLIEßEN"
+  }
+}

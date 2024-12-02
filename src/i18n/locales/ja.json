@@ -1,0 +1,71 @@
+{
+  "app": {
+    "title": "SAXIIB ターミナル",
+    "status": {
+      "online": "オンライン",
+      "offline": "オフライン"
+    }
+  },
+  "folders": {
+    "title": "フォルダ",
+    "chat": "チャット",
+    "messages": "メッセージ",
+    "utility": "ユーティリティ",
+    "settings": "設定"
+  },
+  "settings": {
+    "title": "設定",
+    "language": {
+      "title": "言語設定",
+      "current": "現在の言語"
+    },
+    "theme": {
+      "title": "テーマカラー",
+      "custom": "カスタムカラー",
+      "preview": "プレビュー",
+      "button": "ボタンの例",
+      "input": "入力の例",
+      "border": "ボーダーの例"
+    }
+  },
+  "chat": {
+    "placeholder": "メッセージを入力...",
+    "send": "送信",
+    "listening": "聞き取り中...",
+    "startVoice": "音声入力を開始",
+    "stopVoice": "音声入力を停止"
+  },
+  "messages": {
+    "selectContact": "チャットを開始する連絡先を選択",
+    "newMessage": "新規メッセージ",
+    "contacts": {
+      "title": "連絡先",
+      "add": "連絡先を追加",
+      "online": "オンライン",
+      "typing": "入力中..."
+    }
+  },
+  "utility": {
+    "clipboard": {
+      "title": "クリップボードマネージャー",
+      "placeholder": "保存するテキストを入力...",
+      "store": "保存",
+      "copy": "クリップボードにコピー",
+      "delete": "項目を削除"
+    },
+    "translator": {
+      "title": "オフライン翻訳",
+      "placeholder": "翻訳するテキストを入力...",
+      "translate": "翻訳",
+      "translating": "翻訳中...",
+      "result": "翻訳結果"
+    }
+  },
+  "common": {
+    "cancel": "キャンセル",
+    "save": "保存",
+    "delete": "削除",
+    "edit": "編集",
+    "close": "閉じる"
+  }
+}

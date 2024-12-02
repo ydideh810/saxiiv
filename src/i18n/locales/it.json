@@ -1,0 +1,71 @@
+{
+  "app": {
+    "title": "TERMINALE SAXIIB",
+    "status": {
+      "online": "ONLINE",
+      "offline": "OFFLINE"
+    }
+  },
+  "folders": {
+    "title": "CARTELLE",
+    "chat": "CHAT",
+    "messages": "MESSAGGI",
+    "utility": "UTILITÀ",
+    "settings": "IMPOSTAZIONI"
+  },
+  "settings": {
+    "title": "IMPOSTAZIONI",
+    "language": {
+      "title": "IMPOSTAZIONI LINGUA",
+      "current": "LINGUA CORRENTE"
+    },
+    "theme": {
+      "title": "COLORE TEMA",
+      "custom": "COLORE PERSONALIZZATO",
+      "preview": "ANTEPRIMA",
+      "button": "ESEMPIO PULSANTE",
+      "input": "ESEMPIO INPUT",
+      "border": "ESEMPIO BORDO"
+    }
+  },
+  "chat": {
+    "placeholder": "Scrivi il tuo messaggio...",
+    "send": "INVIA",
+    "listening": "Ascolto...",
+    "startVoice": "Avvia input vocale",
+    "stopVoice": "Ferma input vocale"
+  },
+  "messages": {
+    "selectContact": "Seleziona un contatto per iniziare a chattare",
+    "newMessage": "Nuovo messaggio",
+    "contacts": {
+      "title": "CONTATTI",
+      "add": "Aggiungi contatto",
+      "online": "Online",
+      "typing": "Sta scrivendo..."
+    }
+  },
+  "utility": {
+    "clipboard": {
+      "title": "GESTORE APPUNTI",
+      "placeholder": "Inserisci testo da memorizzare...",
+      "store": "SALVA",
+      "copy": "Copia negli appunti",
+      "delete": "Elimina elemento"
+    },
+    "translator": {
+      "title": "TRADUTTORE OFFLINE",
+      "placeholder": "Inserisci testo da tradurre...",
+      "translate": "TRADUCI",
+      "translating": "TRADUZIONE IN CORSO...",
+      "result": "TRADUZIONE"
+    }
+  },
+  "common": {
+    "cancel": "ANNULLA",
+    "save": "SALVA",
+    "delete": "ELIMINA",
+    "edit": "MODIFICA",
+    "close": "CHIUDI"
+  }
+}

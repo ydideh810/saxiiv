@@ -1,0 +1,71 @@
+{
+  "app": {
+    "title": "TERMINAL N.I.D.A.M",
+    "status": {
+      "online": "EN LIGNE",
+      "offline": "HORS LIGNE"
+    }
+  },
+  "folders": {
+    "title": "DOSSIERS",
+    "chat": "CHAT",
+    "messages": "MESSAGES",
+    "utility": "UTILITAIRE",
+    "settings": "PARAMÈTRES"
+  },
+  "settings": {
+    "title": "PARAMÈTRES",
+    "language": {
+      "title": "PARAMÈTRES DE LANGUE",
+      "current": "LANGUE ACTUELLE"
+    },
+    "theme": {
+      "title": "COULEUR DU THÈME",
+      "custom": "COULEUR PERSONNALISÉE",
+      "preview": "APERÇU",
+      "button": "EXEMPLE DE BOUTON",
+      "input": "EXEMPLE D'ENTRÉE",
+      "border": "EXEMPLE DE BORDURE"
+    }
+  },
+  "chat": {
+    "placeholder": "Tapez votre message...",
+    "send": "ENVOYER",
+    "listening": "Écoute...",
+    "startVoice": "Démarrer l'entrée vocale",
+    "stopVoice": "Arrêter l'entrée vocale"
+  },
+  "messages": {
+    "selectContact": "Sélectionnez un contact pour commencer à discuter",
+    "newMessage": "Nouveau message",
+    "contacts": {
+      "title": "CONTACTS",
+      "add": "Ajouter un contact",
+      "online": "En ligne",
+      "typing": "En train d'écrire..."
+    }
+  },
+  "utility": {
+    "clipboard": {
+      "title": "GESTIONNAIRE DE PRESSE-PAPIERS",
+      "placeholder": "Entrez du texte à stocker...",
+      "store": "STOCKER",
+      "copy": "Copier dans le presse-papiers",
+      "delete": "Supprimer l'élément"
+    },
+    "translator": {
+      "title": "TRADUCTEUR HORS LIGNE",
+      "placeholder": "Entrez le texte à traduire...",
+      "translate": "TRADUIRE",
+      "translating": "TRADUCTION EN COURS...",
+      "result": "TRADUCTION"
+    }
+  },
+  "common": {
+    "cancel": "ANNULER",
+    "save": "ENREGISTRER",
+    "delete": "SUPPRIMER",
+    "edit": "MODIFIER",
+    "close": "FERMER"
+  }
+}
